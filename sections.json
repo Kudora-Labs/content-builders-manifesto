@@ -1,0 +1,23 @@
+{
+  "sections": [
+    "introduction.md",
+    "kudora-builders-manifesto.md",
+    "shared-ground.md",
+    "differences-to-synergy.md",
+    "social-norms.md",
+    "recognition.md",
+    "roles-and-rights.md",
+    "decision-making.md",
+    "contribution-process.md",
+    "rfc-playbook.md",
+    "stewardship.md",
+    "licensing.md",
+    "fork-ethics.md",
+    "security-responsible-disclosure.md",
+    "ai-and-provenance.md",
+    "brand-and-name-use.md",
+    "metrics.md",
+    "amendments.md",
+    "glossary.md"
+  ]
+}
